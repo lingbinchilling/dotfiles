@@ -1,0 +1,2 @@
+[templates]
+colors = { template = "colors.txt", target = "~/.cache/wallust/generated-colors.txt" }
